@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently study in govt. Polytechnic Kaladhungi
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me jayrsj7978@gmail.com
+- 📫 How to reach me jayraj7978@gmail.com
 
 <!---
 jairaj8413/jairaj8413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
